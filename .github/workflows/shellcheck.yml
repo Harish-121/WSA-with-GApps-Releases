@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - '**.sh'
+      - '**.py'
   workflow_dispatch:
   pull_request:
 
